@@ -1,0 +1,15 @@
+C:\Users\megac\RiderProjects\Blabalacar_backend\Blabalacar\BusinnesLayer\bin\Debug\net6.0\BusinnesLayer.deps.json
+C:\Users\megac\RiderProjects\Blabalacar_backend\Blabalacar\BusinnesLayer\bin\Debug\net6.0\BusinnesLayer.dll
+C:\Users\megac\RiderProjects\Blabalacar_backend\Blabalacar\BusinnesLayer\bin\Debug\net6.0\BusinnesLayer.pdb
+C:\Users\megac\RiderProjects\Blabalacar_backend\Blabalacar\BusinnesLayer\bin\Debug\net6.0\DataLayer.dll
+C:\Users\megac\RiderProjects\Blabalacar_backend\Blabalacar\BusinnesLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\Users\megac\RiderProjects\Blabalacar_backend\Blabalacar\BusinnesLayer\obj\Debug\net6.0\BusinnesLayer.csproj.AssemblyReference.cache
+C:\Users\megac\RiderProjects\Blabalacar_backend\Blabalacar\BusinnesLayer\obj\Debug\net6.0\BusinnesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megac\RiderProjects\Blabalacar_backend\Blabalacar\BusinnesLayer\obj\Debug\net6.0\BusinnesLayer.AssemblyInfoInputs.cache
+C:\Users\megac\RiderProjects\Blabalacar_backend\Blabalacar\BusinnesLayer\obj\Debug\net6.0\BusinnesLayer.AssemblyInfo.cs
+C:\Users\megac\RiderProjects\Blabalacar_backend\Blabalacar\BusinnesLayer\obj\Debug\net6.0\BusinnesLayer.csproj.CoreCompileInputs.cache
+C:\Users\megac\RiderProjects\Blabalacar_backend\Blabalacar\BusinnesLayer\obj\Debug\net6.0\BusinnesLayer.csproj.CopyComplete
+C:\Users\megac\RiderProjects\Blabalacar_backend\Blabalacar\BusinnesLayer\obj\Debug\net6.0\BusinnesLayer.dll
+C:\Users\megac\RiderProjects\Blabalacar_backend\Blabalacar\BusinnesLayer\obj\Debug\net6.0\refint\BusinnesLayer.dll
+C:\Users\megac\RiderProjects\Blabalacar_backend\Blabalacar\BusinnesLayer\obj\Debug\net6.0\BusinnesLayer.pdb
+C:\Users\megac\RiderProjects\Blabalacar_backend\Blabalacar\BusinnesLayer\obj\Debug\net6.0\ref\BusinnesLayer.dll
